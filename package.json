@@ -1,0 +1,30 @@
+{
+  "name": "color-convert-route",
+  "author": "Heather Arthur <fayearthur@gmail.com>",
+  "description": "",
+  "version": "0.0.1",
+  "bugs": {
+    "url": "https://github.com/niftylettuce/color-convert-route/issues",
+    "email": "niftylettuce@gmail.com"
+  },
+  "contributors": [
+    "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)"
+  ],
+  "dependencies": {
+    "primitive-color-conversions": "^0.0.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/niftylettuce/color-convert-route",
+  "keywords": [
+    "color-convert-route",
+    "lass"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niftylettuce/color-convert-route"
+  }
+}
